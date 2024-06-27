@@ -49,3 +49,6 @@ Please wait a few minutes before you try again."
 Attention Required
 code": "throttled
 _Incapsula_Resource
+HTTP_USER-AGENT
+There might be too much traffic or a configuration error.
+502 ERROR
