@@ -52,3 +52,4 @@ _Incapsula_Resource
 HTTP_USER-AGENT
 There might be too much traffic or a configuration error.
 502 ERROR
+504 Gateway Time-out
