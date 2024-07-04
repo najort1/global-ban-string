@@ -53,3 +53,5 @@ HTTP_USER-AGENT
 There might be too much traffic or a configuration error.
 502 ERROR
 504 Gateway Time-out
+502 - Bad Gateway
+503 - Service Not Available
