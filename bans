@@ -68,3 +68,4 @@ Ocorreu um erro interno no servidor
 Too Many Requests
 Sorry, the page you are looking for is currently unavailable
 Client network socket disconnected before secure TLS connection was established
+Bad gateway Error code 502
